@@ -1,0 +1,18 @@
+- Supervised Learning
+  - Regression
+    - [ ] Single Parameter
+    - [ ] Multi Parameter
+    - [ ] Polynomial
+    - [ ] Linear
+    - [ ] Quadratic
+  - Classification
+    - [ ] Bayesian
+    - [x] KNN
+    - [ ] SVM
+    - [ ] Decision Tree
+    - [ ] Evaluation
+    - [ ] Neaurl Networks
+- Unsupervised Learning
+  - Clustering
+    - [ ] Kmeans
+    - [ ] Hierarchical Clustering
