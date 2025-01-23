@@ -1,0 +1,18 @@
+- Supervised Learning
+  - [Regression](./slides/04-Introduction_to_Regression.pdf) [page 1-35]
+    - [ ] Single Parameter
+    - [ ] Multi Parameter
+    - [ ] Polynomial
+    - [ ] Linear
+    - [ ] Quadratic
+  - Classification
+    - [ ] Bayesian
+    - [x] [KNN](./slides/14-KNN.pdf) [Full]
+    - [ ] [SVM](./slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16]
+    - [ ] [Decision Tree](./slides/15-Decision_Tree.pdf) [page 1-46]
+    - [ ] [Evaluation](./slides/16-Evaluating_Classifiers.pdf) [Full]
+    - [ ] [Neaurl Networks](./slides/10-Neural_Networks.pdf) [Full]
+- Unsupervised Learning
+  - [Clustering](./slides/17-Clustering.pdf) [page 1-32]
+    - [ ] Kmeans
+    - [ ] Hierarchical Clustering
