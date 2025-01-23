@@ -1,5 +1,5 @@
 - Supervised Learning
-  - [Regression](./slides/04-Introduction_to_Regression.pdf) [page 1-35]
+  - [Regression](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf) [page 1-35]
     - [ ] Single Parameter
     - [ ] Multi Parameter
     - [ ] Polynomial
@@ -7,12 +7,12 @@
     - [ ] Quadratic
   - Classification
     - [ ] Bayesian
-    - [x] [KNN](./slides/14-KNN.pdf) [Full]
-    - [ ] [SVM](./slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16]
-    - [ ] [Decision Tree](./slides/15-Decision_Tree.pdf) [page 1-46]
-    - [ ] [Evaluation](./slides/16-Evaluating_Classifiers.pdf) [Full]
-    - [ ] [Neaurl Networks](./slides/10-Neural_Networks.pdf) [Full]
+    - [x] [KNN](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/14-KNN.pdf) [Full]
+    - [ ] [SVM](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16]
+    - [ ] [Decision Tree](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/15-Decision_Tree.pdf) [page 1-46]
+    - [ ] [Evaluation](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/16-Evaluating_Classifiers.pdf) [Full]
+    - [ ] [Neaurl Networks](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/10-Neural_Networks.pdf) [Full]
 - Unsupervised Learning
-  - [Clustering](./slides/17-Clustering.pdf) [page 1-32]
+  - [Clustering](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/17-Clustering.pdf) [page 1-32]
     - [ ] Kmeans
     - [ ] Hierarchical Clustering
