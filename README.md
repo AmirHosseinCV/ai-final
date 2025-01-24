@@ -1,10 +1,10 @@
 - Supervised Learning
-  - [Regression](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf) [page 1-35]
+  - [Regression](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf) [page 1-35]: [[Summary, Videos and Examples](https://docs.google.com/document/d/177FlE947u0_GujSxehxabBg_RdJx5bhBDxuUu-HXsg0/edit?usp=sharing)]
     - [x] [Single Parameter](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf#page=3)
     - [x] [Multi Parameter](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf#page=14)
-    - [ ] [Polynomial](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf#page=32)
-    - [ ] Linear
-    - [ ] [Quadratic](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf#page=34)
+    - [x] [Polynomial](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf#page=32)
+    - [x] Linear
+    - [x] [Quadratic](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf#page=34)
   - Classification
     - [ ] Bayesian
     - [x] [KNN](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/14-KNN.pdf) [Full]
