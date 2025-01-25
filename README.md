@@ -9,7 +9,7 @@
     - [ ] Bayesian
     - [x] [KNN](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/14-KNN.pdf) [Full]
     - [ ] [SVM](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16]
-    - [ ] [Decision Tree](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/15-Decision_Tree.pdf) [page 1-46]
+    - [ ] [Decision Tree](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/15-Decision_Tree.pdf) [page 1-46] [[Summary, Videos and Examples](https://docs.google.com/document/d/1koaU2fXwMdvDH2KEy15mgjd6sjAPX7DqKfue12qk2sE/edit?usp=sharing)]
     - [ ] [Evaluation](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/16-Evaluating_Classifiers.pdf) [Full]
     - [ ] [Neaurl Networks](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/10-Neural_Networks.pdf) [Full]
 - Unsupervised Learning
