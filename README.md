@@ -13,6 +13,6 @@
     - [ ] [Evaluation](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/16-Evaluating_Classifiers.pdf) [Full]
     - [ ] [Neaurl Networks](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/10-Neural_Networks.pdf) [Full]
 - Unsupervised Learning
-  - [Clustering](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/17-Clustering.pdf) [page 1-32]
+  - [Clustering](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/17-Clustering.pdf) [page 1-32] [[Summary, Videos and Examples](https://docs.google.com/document/d/1lXCO6e7A4HTLQOWeztdTW3REWUvSiH8Q__QOrFlTuRI/edit?usp=sharing)]
     - [ ] [Kmeans](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/17-Clustering.pdf#page=22) [Page 22]
     - [ ] [Hierarchical Clustering](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/17-Clustering.pdf#page=13) [Page 13]
