@@ -6,7 +6,7 @@
     - [x] Linear
     - [x] [Quadratic](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/04-Introduction_to_Regression.pdf#page=34)
   - Classification
-    - [ ] Bayesian
+    - [ ] Bayesian [[Video 1: Gaussian (continues values), important](https://youtu.be/kufuBE6TJew?si=T7ksV59Rn5j1l2Jd)] [[Video2: Categorical Values](https://youtu.be/O2L2Uv9pdDA?si=nFbE_uLMDYQv4MFL)]
     - [x] [KNN](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/14-KNN.pdf) [Full] (So ez, and very similary to KMeans) [[Video 1](https://youtu.be/HVXime0nQeI?si=TkJlG6EURVbO-wUC)] [[Video 2](https://youtu.be/0p0o5cmgLdE?si=NX0wuvi8z3P7G0hr)] [[ChatGPT's Summary](https://chatgpt.com/share/679552f8-f1d8-800a-bf73-a3374c6d88d9)] 
     - [ ] [SVM](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16] [[Example **(important)**](https://freedium.cfd/https://medium.com/@balajicena1995/support-vector-machine-with-numerical-example-8dfe81eae4f0)]
     - [x] [Decision Tree](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/15-Decision_Tree.pdf) [page 1-46] [[Summary, Videos and Examples](https://docs.google.com/document/d/1koaU2fXwMdvDH2KEy15mgjd6sjAPX7DqKfue12qk2sE/edit?usp=sharing)]
