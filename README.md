@@ -11,7 +11,7 @@
     - [ ] [SVM](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16] [[Example **(important)**](notes/svm_example.pdf)]
     - [x] [Decision Tree](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/15-Decision_Tree.pdf) [page 1-46] [[Summary, Videos and Examples](https://docs.google.com/document/d/1koaU2fXwMdvDH2KEy15mgjd6sjAPX7DqKfue12qk2sE/edit?usp=sharing)]
     - [ ] [Evaluation](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/16-Evaluating_Classifiers.pdf) [Full] [[ChatGPT's Summary](https://chatgpt.com/share/67954eae-1b18-800a-885b-78077d7df692)]
-    - [ ] [Neural Networks](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/10-Neural_Networks.pdf) [Full]
+    - [ ] [Neural Networks](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/10-Neural_Networks.pdf) [Full] [[Example **(Important)**](https://chistio.ir/%D8%AD%D9%84-%DB%8C%DA%A9-%D9%85%D8%AB%D8%A7%D9%84-%D8%B9%D8%AF%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B9%D8%B5%D8%A8%DB%8C/)]
 - Unsupervised Learning
   - [Clustering](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/17-Clustering.pdf) [page 1-32] [[Summary, Videos and Examples](https://docs.google.com/document/d/1lXCO6e7A4HTLQOWeztdTW3REWUvSiH8Q__QOrFlTuRI/edit?usp=sharing)]
     - [x] [Kmeans](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/17-Clustering.pdf#page=22) [Page 22]
