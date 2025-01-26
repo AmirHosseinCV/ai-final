@@ -8,7 +8,7 @@
   - Classification
     - [ ] Bayesian
     - [x] [KNN](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/14-KNN.pdf) [Full] (So ez, and very similary to KMeans) [[Video 1](https://youtu.be/HVXime0nQeI?si=TkJlG6EURVbO-wUC)] [[Video 2](https://youtu.be/0p0o5cmgLdE?si=NX0wuvi8z3P7G0hr)] [[ChatGPT's Summary](https://chatgpt.com/share/679552f8-f1d8-800a-bf73-a3374c6d88d9)] 
-    - [ ] [SVM](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16] [[Example **(important)**]([notes/svm_example.pdf](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/notes/svm_example.pdf))]
+    - [ ] [SVM](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/08-SVM_as_Linear_Classifier.pdf) [page 1-16] [[Example **(important)**](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/notes/svm_example.pdf)]
     - [x] [Decision Tree](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/15-Decision_Tree.pdf) [page 1-46] [[Summary, Videos and Examples](https://docs.google.com/document/d/1koaU2fXwMdvDH2KEy15mgjd6sjAPX7DqKfue12qk2sE/edit?usp=sharing)]
     - [ ] [Evaluation](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/16-Evaluating_Classifiers.pdf) [Full] [[ChatGPT's Summary](https://chatgpt.com/share/67954eae-1b18-800a-885b-78077d7df692)]
     - [ ] [Neural Networks](https://nbviewer.org/github/AmirHosseinCV/ai-final/blob/main/slides/10-Neural_Networks.pdf) [Full] [[Example **(Important)**](https://chistio.ir/%D8%AD%D9%84-%DB%8C%DA%A9-%D9%85%D8%AB%D8%A7%D9%84-%D8%B9%D8%AF%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B9%D8%B5%D8%A8%DB%8C/)]
